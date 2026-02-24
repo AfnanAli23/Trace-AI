@@ -1,4 +1,4 @@
-# 🚀 Project 1: TraceAI — Intelligent Bug Tracking & Root Cause Analyzer
+# 🚀 TraceAI — Intelligent Bug Tracking & Root Cause Analyzer
 
 ## 🔹 What It Does
 
